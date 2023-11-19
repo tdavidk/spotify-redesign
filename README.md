@@ -1,16 +1,24 @@
-# spotify
+# Spotify-Redesign
 
-A new Flutter project.
+---
 
-## Getting Started
+Hi Folks  🚀,
 
-This project is a starting point for a Flutter application.
+I do slicing design **[Spotify Redesign - Free Ui Kit (Light)](https://www.figma.com/community/file/1166665330965959412/spotify-redesign-free-ui-kit-light)** by Soroush Norozi.
 
-A few resources to get you started if this is your first Flutter project:
+I’m using Flutter 3.13.9 in this project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+[preview.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/d75b6452-db17-41a7-a773-66e121ac5daf/4fecb793-a52d-420a-b8cf-11e260a70bc1/preview.mp4)
+
+## Download
+
+---
+
+[Download APK](https://drive.google.com/file/d/19PTAx3KFbf1Htinl8b_J82zGJhsvUiWx/view?usp=sharing)
+
+Best Regard’s
+David Kurniawan
